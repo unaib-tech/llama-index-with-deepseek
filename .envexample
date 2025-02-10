@@ -1,0 +1,9 @@
+# DeepSeek Configuration
+GROQ_API_KEY=""
+
+# Qdrant Configuration
+QDRANT_API_KEY=""
+QDRANT_URL=""
+
+# LangSmith Configuration
+LANGSMITH_API_KEY=""
